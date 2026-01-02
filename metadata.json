@@ -1,0 +1,7 @@
+{
+  "name": "禹含 · 极光记忆深处",
+  "description": "为禹含定制的纯本地浪漫艺术空间，深度适配 iPhone 16 Pro Max。通过星轨临摹与记忆编织，重构永恒瞬间。极致流畅，不依赖 AI。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
